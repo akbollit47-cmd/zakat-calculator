@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akbollit47-cmd.github.io/zakat-calculator/sitemap.xml
